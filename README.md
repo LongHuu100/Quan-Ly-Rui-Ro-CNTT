@@ -25,7 +25,12 @@ Khi triển khai hệ thống CNTT mới sẽ dẫn đến những thay đổi t
 
 --> Cơ cấu tổ chức thay đổi dẫn đến chức năng có sự thay đối theo bộ phận, dẫn đến cấu trúc phần mềm phải linh họat, có thể hình dung Microservice là yếu tố quyết định
 
-#
+# Bảo mật công nghệ thông tin.
+Bảo mật từ bên trong nội bộ và từ bên ngoài, quan trong nhất là bên trong.
+
+VD: Bảo mật bên trong: Công ty mất dần khách hàng trung thành lâu năm vì hệ thống để lộ đầu ra và đầu vào của sản phẩm dẫn đến đối thủ kéo khách trung thành thông qua cơ chế giá.
+
+Bảo mật bên ngoài: Hệ thống có lỗ hổng bảo mật, hacker lấy được thông tin khách hàng bán cho những cá nhân lừa đảo thông tin khách hàng, sản phẩm...
 
 Việc quản lý rủi ro phải được xác định rõ ràng trong quản lý thực hiện triển khai dự án, với phương pháp tiếp cận thích hợp để có thể quản lý được trong đội dự án. Kinh nghiệm cho thấy lãnh đạo phải phê duyệt kế hoạch quản lý rủi ro, vì ảnh hưởng của nó đối với sự thành công của dự án nói chung. Hơn nữa, kế hoạch quản lý rủi ro là chìa khóa quan trọng trong việc kiểm soát rủi ro.
 
