@@ -7,18 +7,22 @@ Rủi ro có thể được phân ra các loại sau (tuy nhiên cũng chỉ là
 
 # Công nghệ: 
 Công nghệ đang thay đổi nhanh chóng và không ai có thể dự đoán chính xác những gì sẽ xảy ra trong vài năm tới. Điều tốt nhất ngày hôm nay sẽ trở nên tốt hơn trong tương lai. Có nhiều cấu phần của công nghệ hạ tầng nền tảng có trong việc triển khai chuyển đổi từ hệ thống hiện tại sang hệ thống đang xây dựng, và những rủi ro tiềm tàng về công nghệ phải được quan tâm và quản lý chặt chẽ.
+
 --> Chuyển đổi công nghệ hiện tại sang công nghệ mới thường tiềm tàng rủi ro về migrate data từ hệ thông cũ.
 
 # Con người:
 Hệ thống CNTT mới được tạo ra để phục vụ nhân viên, tin học hóa những công việc họ đang thực hiện. Nhân viên phải xác định nhu cầu công nghệ và có thể sử dụng nó một cách hiệu quả. Khi công nghệ liên quan đến sự thay đổi, một số người sẽ chống lại công nghệ này vì các lý do khác nhau. Do đó, vấn đề con người phải là một yếu tố quan trọng, trong việc xác định và giải quyết các rủi ro trong việc phát triển hệ thống.
+
 --> Tâm lý chống đối lại những sự thay đổi đã sẵn có trong mỗi người chưa thực sự giác ngộ. Cần phải khéo và từ từ theo kinh nghiệm của mình thì sẽ tiếp cận với nhân viên theo kênh email với nội dung cửa dưới như: Tôi và bạn đều hiểu việc chuyển đối số là rất quan trọng để công ty phát triển, trong quá trình sử dụng phần mềm bạn có gặp khó khăn gì không,....
 
 # Quy trình nghiệp vụ: 
 Những rủi ro chính xảy ra khi quy trình nghiệp vụ không được xem xét và định nghĩa cẩn thận, đi kèm với đó là những quy trình phù hợp phải được cung cấp tại thời gian thích hợp.
+
 --> Để đáp ứng được qui trình nghiệp vụ thay đổi nhanh thì trong sản phẩm công nghệ phải được tách rời để tránh ảnh hướng tới các chức năng lõi. Thù thắng cho việc này là dựa trên nguyên tắc DDD.
 
 # Cơ cấu tổ chức:
 Khi triển khai hệ thống CNTT mới sẽ dẫn đến những thay đổi trong cơ cấu tổ chức bao gồm: phải được thực hiện một cách cẩn thận và vào đúng thời điểm, do đó liên quan đến rủi ro. Thay đổi cơ cấu tổ chức, cũng như các công nghệ mới, có nghĩa là thay đổi nhất định trong phạm vi của đơn vị, có thêm nhiều vấn đề phát sinh mới. Do đó, bất kỳ hoạt động hoặc lĩnh vực nào ảnh hưởng tiêu cực đến sự thành công của dự án CNTT, phải được chỉ ra trong kế hoạch quản lý rủi ro với những hành động phù hợp, để đối phó và giải quyết những vấn đề hoặc rủi ro có nguy cơ xảy ra cao nhất.
+
 --> Cơ cấu tổ chức thay đổi dẫn đến chức năng có sự thay đối theo bộ phận, dẫn đến cấu trúc phần mềm phải linh họat, có thể hình dung Microservice là yếu tố quyết định
 
 #
